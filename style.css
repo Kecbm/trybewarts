@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Oswald:wght@300&display=swap');
+
+.header {
+  display: flex;
+  background-color: rgb(43, 42, 51);
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  justify-content: space-between;
+  height: 50px;
+  color: rgb(178 , 178 , 182);
+  font-family: Open Sans Condensed;
+  font-size: 18px;
+}
+
+h1 {
+  color: white;
+  font-family: Oswald;
+  font-size: 28px;
+  text-align: center;
+  margin: 10px;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: rgb(28, 27, 34);
+}
+
+main {
+  display: flex;
+  background-color: rgb(43, 42, 51);
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+  font-family: Open Sans Condensed;
+  font-size: 18px;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#usuario, #identificacao, #textarea, footer {
+  display: flex;
+  font-family: Open Sans Condensed;
+  font-size: 18px;
+}
+
+button, select {
+  background-color: rgb(66, 65, 77);
+  font-family: Open Sans Condensed;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+button:hover, select:hover {
+  background-color: white;
+}
+
+label {
+  font-weight: bold;
+  color: white;
+}
