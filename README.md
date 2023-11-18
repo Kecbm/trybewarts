@@ -9,4 +9,4 @@ A Trybewarts School of Magic form page where students can submit feedback about 
 
 # Development team
 
-Caroline Machado and i.
+Caroline Machado and me.
